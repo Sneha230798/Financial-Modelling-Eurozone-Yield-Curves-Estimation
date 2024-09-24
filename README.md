@@ -8,7 +8,8 @@ Utilizing a comprehensive dataset that includes bond prices, days to maturity, c
 
 ## Data Sources
 
-The data for this analysis has been sourced from **Refinitiv Datastreams**. For more information regarding Datastreams, please refer to the following link: [Refinitiv Datastreams](#) *(insert link here)*.
+The data for this analysis has been sourced from **Refinitiv Datastreams**. For more information regarding Datastreams, please refer to the following link: [link](https://www.lseg.com/en/data-analytics/search/datastream-macroeconomic-analysis?utm_content=Brand%20Product-Tier%208-G-EN-ALL&utm_source=google&utm_medium=cpc&utm_campaign=748912_DatastreamBrandProductPaidSearch2023&elqCampaignId=20650&utm_term=refinitiv%20datastream%20download&gad_source=1&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6ObUVU8nyjI1hItG__bSMzQWbn3A0a4G-oQkmdQtef7lfbMFnvnYMUaAqakEALw_wcB&gclsrc=aw.ds).
+
 
 The dataset includes:
 
